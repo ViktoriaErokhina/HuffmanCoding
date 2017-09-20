@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/Decoder.h
+vector
+-
+queue
+-
+
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/Encoder.h
+vector
+-
+
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/FileUtil.h
+cstdio
+-
+stdexcept
+-
+vector
+-
+
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Console/main.cpp
+../Compresser/Encoder.h
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/Encoder.h
+../Compresser/Decoder.h
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/Decoder.h
+../Compresser/FileUtil.h
+/Users/Viktoria/Documents/Studying/CPP/Huffman/Compresser/FileUtil.h
+iostream
+-
+cstring
+-
+

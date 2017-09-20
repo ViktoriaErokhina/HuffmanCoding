@@ -1,0 +1,4 @@
+/Users/Viktoria/Documents/Studying/CPP/Huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Viktoria/Documents/Studying/CPP/Huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Viktoria/Documents/Studying/CPP/Huffman/cmake-build-debug/CMakeFiles/ConsoleUtil.dir
+/Users/Viktoria/Documents/Studying/CPP/Huffman/cmake-build-debug/CMakeFiles/HuffmanCompresser.dir

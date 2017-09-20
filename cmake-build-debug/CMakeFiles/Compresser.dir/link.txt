@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libCompresser.a  CMakeFiles/Compresser.dir/Compresser/Encoder.cpp.o CMakeFiles/Compresser.dir/Compresser/Decoder.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libCompresser.a

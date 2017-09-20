@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libHuffmanCompresser.a  CMakeFiles/HuffmanCompresser.dir/Compresser/Encoder.cpp.o CMakeFiles/HuffmanCompresser.dir/Compresser/Decoder.cpp.o CMakeFiles/HuffmanCompresser.dir/Compresser/FileUtil.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libHuffmanCompresser.a
